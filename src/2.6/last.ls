@@ -1,0 +1,2 @@
+exports.last = reverse >> head
+
