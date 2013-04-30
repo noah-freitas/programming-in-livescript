@@ -2,5 +2,5 @@
 
 lsc -dco src-compiled/ src/
 lsc -co spec/ test/
-jasmine-node --matchall spec/
+jasmine-node --verbose --matchall spec/
 
